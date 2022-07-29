@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @antekes1
 - 👀 I’m interested in programing =)
 - 🌱 I’m currently learning python and java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
 
 <!---
 antekes1/antekes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
