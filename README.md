@@ -10,3 +10,6 @@ Current learning c++ and Java.
 
 ### Contact 
 - Email: antekes1dev@gmail.com
+
+### Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antekes1&show_icons=true&theme=tokyonight)
