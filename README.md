@@ -13,3 +13,4 @@ Current learning c++ and Java.
 
 ### Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antekes1&show_icons=true&theme=radical)
+most of my repos are private alright
