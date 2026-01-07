@@ -12,5 +12,5 @@ Current learning c++ and Java.
 - Email: antekes1dev@gmail.com
 
 ### Github stats
-![GitHub stats](https://githubcard.com/antekes1.svg?d=TMRM4j2D)
+![GitHub stats](https://githubcard.com/antekes1.svg?d=x38bAxuD)
 <p>most of my repos are private alright</p>
