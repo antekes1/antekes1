@@ -11,6 +11,18 @@ Current learning c++ and Java.
 ### Contact 
 - Email: antekes1dev@gmail.com
 
-### Github stats
-![GitHub stats](https://githubcard.com/antekes1.svg?d=x38bAxuD)
+## Skills
+  <b>OSes</b>
+
+  [![OS](https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,windows,raspberrypi)](https://skillicons.dev)
+  
+  <b>Tools</b>
+  
+  [![Tools](https://skillicons.dev/icons?i=git,github,neovim,idea,pycharm,bash,github,vite,postgresql,django,docker)](https://skillicons.dev)
+  
+  <b>Languages</b>
+  
+  [![Languages](https://skillicons.dev/icons?i=rust,cpp,java,python,javascript,typescript)](https://skillicons.dev)
+
+
 <p>most of my repos are private alright</p>
